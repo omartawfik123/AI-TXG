@@ -127,7 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+ai_txg_mentorship_project/
 # Spyder project settings
 .spyderproject
 .spyproject
